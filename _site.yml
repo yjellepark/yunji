@@ -1,12 +1,22 @@
-name: "my-website"
+name: "Yunji Park"
+output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Yunji Park"
   left:
-    - text: "Home"
+    - text: "index"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Publications"
+      href: Publications.html
+  # right:
+   # - icon: fa-envelope fa-lg
+    #  href: contact.html
+    #- icon: fa-github fa-lg
+     # href: http://github.com/yunjiellepark
+    #- icon: fa-twitter fa-lg
+     # href: https://twitter.com/ypark246
+ 
 output: 
   html_document:
     theme: cosmo
+    css: 'styles.css'
     highlight: textmate
