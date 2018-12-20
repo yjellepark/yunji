@@ -1,7 +1,9 @@
 ---
-title: "Yunji Park"
+"Yunji's World"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Yunji_profile.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+Hello. I'm working on this page right now. Stay tune.
+
+<img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
