@@ -2,6 +2,9 @@
 "Contact Info"
 
 ---
+<link rel="stylesheet" href="styles.css" type="text/css">
 
-email: ypark246@wisc.edu
-twitter: twitter.com/ypark246
+
+Contact anytime to ypark246@wisc.edu
+
+[**Yunji's twitter**](twitter.com/ypark246)

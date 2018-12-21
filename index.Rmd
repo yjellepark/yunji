@@ -1,9 +1,12 @@
 ---
-"Yunji's World"
+
+<img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-right: 20px; margin-left: 20px"; align="right">
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Hello. I'm working on this page right now. Stay tune.
+Hello! 
 
-<img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+I'm a graduate student at UW-Madison interested in children's cognition and brain development in the context of education. Especially, I'm interested in the development of nonsymbolic ratio representations and following structural and fuctional brain changes. I do believe different educational experiences shape kid's brain differently! 
 
+
+I love yoga, netflix, and cholate. 
