@@ -5,6 +5,8 @@
 
  Yunji's publications
  
+<link rel="stylesheet" href="styles.css" type="text/css">
+
 Manuscript 
 Park, Y., Viegut, A.A., & Matthews, P.G. (in preparation). The developmental trajectories of nonsymbolic ratio representations in children.
 Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study.
