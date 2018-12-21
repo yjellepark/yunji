@@ -5,7 +5,7 @@
 
  Yunji's publications
  
-* **Manuscript 
+Manuscript 
 Park, Y., Viegut, A.A., & Matthews, P.G. (in preparation). The developmental trajectories of nonsymbolic ratio representations in children.
 Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study.
 Park, Y., Binzak, J.V., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions. 
@@ -13,11 +13,11 @@ Park, Y. & Cho, S. (in press). Developmental Changes in the Relationship between
 Park, Y. & Cho, S. (2014). Comparing Construct and Predictive Validities of the Measurement of Children’s Approximate Number Acuity Depending on Numerosity Comparison Task Format. Korean Journal of Cognitive Sciences, 25(2), 79-101. 
 
 
-* **Talk
+Talk
 Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E.M. (accepted). Differences in processing symbolic vs. non-symbolic representations ratios: Behavioral and neural evidence. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada. 
 Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks. 
 
-* **Presentations & Posters 
+Presentations & Posters 
 Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (accepted). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada. 
 Park, Y., Viegut, A.A., & Matthews, P.G. (accepted). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD. 
 Viegut, A.A. Park, Y. & Matthews, P.G. (accepted). Number Line Estimation is More than Numerical: Evidence from Nonstandard Number Lines, 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
