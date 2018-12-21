@@ -2,3 +2,6 @@
 "Contact Info"
 
 ---
+
+email: ypark246@wisc.edu
+twitter: twitter.com/ypark246

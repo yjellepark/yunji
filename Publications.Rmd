@@ -1,7 +1,31 @@
 ---
-
 "Publications"
 
 ---
 
-Yunji's publications 
+ Yunji's publications
+ 
+* **Manuscript 
+Park, Y., Viegut, A.A., & Matthews, P.G. (in preparation). The developmental trajectories of nonsymbolic ratio representations in children.
+Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study.
+Park, Y., Binzak, J.V., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions. 
+Park, Y. & Cho, S. (in press). Developmental Changes in the Relationship between Magnitude Acuities and Mathematical Achievement in Elementary School Children. Educational Psychology.
+Park, Y. & Cho, S. (2014). Comparing Construct and Predictive Validities of the Measurement of Children’s Approximate Number Acuity Depending on Numerosity Comparison Task Format. Korean Journal of Cognitive Sciences, 25(2), 79-101. 
+
+
+* **Talk
+Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E.M. (accepted). Differences in processing symbolic vs. non-symbolic representations ratios: Behavioral and neural evidence. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada. 
+Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks. 
+
+* **Presentations & Posters 
+Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (accepted). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada. 
+Park, Y., Viegut, A.A., & Matthews, P.G. (accepted). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD. 
+Viegut, A.A. Park, Y. & Matthews, P.G. (accepted). Number Line Estimation is More than Numerical: Evidence from Nonstandard Number Lines, 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
+Matthews, P.G., Binzak, J.V., Kalra, P.B., Park, Y., & Hubbard, E.M. (accepted). Perceptual Routes to Rational Numbers. Paper submitted as part of a symposium to 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
+Park, Y., Binzak, J.V., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (Sep, 2018). Developmental changes in white matter tracts for symbolic and non-symbolic fractions, 6th Biennial conference on International Mind, Brain and Education Society, Los Angeles, CA.
+Viegut, A.A. Park, Y., Hubbard, E.M. & Matthews, P.G. (Sep, 2018). Differential improvement in fraction estimation in 2nd vs. 5th grade children: Longitudinal Analysis, 6th Biennial conference on International Mind, Brain and Education Society, Los Angeles, CA. 
+Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (July, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study, Poster presented at the 40th Annual Meetings on Cognitive Science Society, Madison, WI.
+Binzak, J.V., Park, Y, Toomarian, E.Y., Kalra, P.B., Chuang, Y-S., Matthews, P.G., & Hubbard, E.M. (2018, March). Neurocognitive Relationships between Nonsymbolic and Symbolic Ratio Processing in Children and Adults. Poster presented at the 25th Annual Meeting of the Cognitive Neuroscience Society, Boston, MA. 
+Kalra, P. Binzak, J.V., Park, Y., Matthews, P.G. & Hubbard, E.M. (2018). Developmental lateralization of non- symbolic ratio processing predicts fraction knowledge. Poster presented at the 25th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Boston. 
+Binzak, J.V., Park, Y., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E.M. (October, 2017). Exploring the ratio processing system among primary school children: Behavioral and neural evidence. Poster presented at the Cognitive Development Society, Portland, OR. 
+Park, Y. & Matthews, P.G. (July, 2017). Proportional reasoning in the context of continuous vs. discretized: Adults go wrong where children go wrong, Poster presented at the 5th Annual Midwest Meeting on Mathematical Thinking, Minneapolis, MN. 
