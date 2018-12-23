@@ -4,10 +4,6 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: Publications
-    href: Publications.html
-  - text: Contact
-    href: contact.html
 output:
   html_document:
     theme: cosmo

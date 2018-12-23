@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -164,6 +167,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -181,12 +279,6 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Home</a>
 </li>
-<li>
-  <a href="Publications.html">Publications</a>
-</li>
-<li>
-  <a href="contact.html">Contact</a>
-</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -203,15 +295,56 @@ $(document).ready(function () {
 </div>
 
 
-<hr />
-<p><img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-right: 20px; margin-left: 20px"; align="right"></p>
+<p><img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-top: 20px; margin-right: 20px; margin-left: 20px"; align="right"></p>
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><font size="3"> Hello!</p>
-<p>I’m a graduate student at UW-Madison interested in children’s cognition and brain development in the context of education. Especially, I’m interested in the development of nonsymbolic ratio representations and following structural and fuctional brain changes. I do believe different educational experiences shape kid’s brain differently!</p>
+<div id="i-am.." class="section level3">
+<h3><strong>I am.. </strong></h3>
+<p><font size="3"></p>
+<p>This is Yunji, a graduate student at UW-Madison interested in children’s cognition and brain development in the context of education. Especially, I’m interested in the development of nonsymbolic ratio representations and following structural and fuctional brain changes. I do believe different educational experiences shape kid’s brain differently!</p>
 <p>I love yoga, netflix, and chocolate. </font></p>
+<hr />
+</div>
+<div id="publications" class="section level3">
+<h3><strong>Publications</strong></h3>
+<div id="manuscript" class="section level4">
+<h4><strong>Manuscript</strong></h4>
+<p>Park, Y., Viegut, A.A., &amp; Matthews, P.G. (in preparation). The developmental trajectories of nonsymbolic ratio representations in children.</p>
+<p>Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., &amp; Hubbard, E.M. (in preparation). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study.</p>
+<p>Park, Y., Binzak, J.V., Dean, D.3rd, Alexander, A., Matthews, P.G., &amp; Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions.</p>
+<p>Park, Y. &amp; Cho, S. (2017). Developmental Changes in the Relationship between Magnitude Acuities and Mathematical Achievement in Elementary School Children. <em>Educational Psychology 37(7), 1-15.</em></p>
+<p>Park, Y. &amp; Cho, S. (2014). Comparing Construct and Predictive Validities of the Measurement of Children’s Approximate Number Acuity Depending on Numerosity Comparison Task Format. <em>Korean Journal of Cognitive Sciences, 25(2), 79-101.</em></p>
+</div>
+<div id="talk" class="section level4">
+<h4><strong>Talk</strong></h4>
+<p>Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., &amp; Hubbard, E.M. (accepted). Differences in processing symbolic vs. non-symbolic representations ratios: Behavioral and neural evidence. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.</p>
+<p>Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., &amp; Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks.</p>
+</div>
+<div id="presentations-posters" class="section level4">
+<h4><strong>2018-2019 Presentations &amp; Posters</strong></h4>
+<p>Toomarian, E.Y., Park, Y., Matthews, P.G., &amp; Hubbard, E.M. (accepted). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.</p>
+<p>Park, Y., Viegut, A.A., &amp; Matthews, P.G. (accepted). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.</p>
+<p>Viegut, A.A. Park, Y. &amp; Matthews, P.G. (accepted). Number Line Estimation is More than Numerical: Evidence from Nonstandard Number Lines, 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.</p>
+<p>Matthews, P.G., Binzak, J.V., Kalra, P.B., Park, Y., &amp; Hubbard, E.M. (accepted). Perceptual Routes to Rational Numbers. Paper submitted as part of a symposium to 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.</p>
+<p>Park, Y., Binzak, J.V., Dean, D.3rd, Alexander, A., Matthews, P.G., &amp; Hubbard, E.M. (Sep, 2018). Developmental changes in white matter tracts for symbolic and non-symbolic fractions, 6th Biennial conference on International Mind, Brain and Education Society, Los Angeles, CA.</p>
+<p>Viegut, A.A. Park, Y., Hubbard, E.M. &amp; Matthews, P.G. (Sep, 2018). Differential improvement in fraction estimation in 2nd vs. 5th grade children: Longitudinal Analysis, 6th Biennial conference on International Mind, Brain and Education Society, Los Angeles, CA.</p>
+<p>Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., &amp; Hubbard, E.M. (July, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study, Poster presented at the 40th Annual Meetings on Cognitive Science Society, Madison, WI.</p>
+<p>Hubbard, E.M., Binzak, J.V., Park, Y., Kalra, P.B., Toomarian, E.Y. (April, 2018). The ratio processing system underpins symbolic fraction understanding: Developmental neuroimaging investigations. Paper submitted as part of a symposium to 1st Mathematical Cognition and Learning Society Conference.</p>
+<p>Binzak, J.V., Park, Y, Toomarian, E.Y., Kalra, P.B., Chuang, Y-S., Matthews, P.G., &amp; Hubbard, E.M. (2018, March). Neurocognitive Relationships between Nonsymbolic and Symbolic Ratio Processing in Children and Adults. Poster presented at the 25th Annual Meeting of the Cognitive Neuroscience Society, Boston, MA.</p>
+<p>Kalra, P. Binzak, J.V., Park, Y., Matthews, P.G. &amp; Hubbard, E.M. (2018). Developmental lateralization of non- symbolic ratio processing predicts fraction knowledge. Poster presented at the 25th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Boston.</p>
+<hr />
+</div>
+</div>
+<div id="contact-info" class="section level3">
+<h3><strong>Contact Info</strong></h3>
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<p><font size="4">Contact anytime to <a href="mailto:ypark246@wisc.edu">ypark246@wisc.edu</a> </font></p>
+<p><font size="4"> <a href="twitter.com/ypark246"><strong>Yunji’s twitter</strong></a> </font></p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
