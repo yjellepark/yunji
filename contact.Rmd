@@ -3,8 +3,11 @@
 
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
+---
+---
+
+<font size="4">Contact anytime to ypark246@wisc.edu </font>
 
 
-Contact anytime to ypark246@wisc.edu
+<font size="4"> [**Yunji's twitter**](twitter.com/ypark246) </font>
 
-[**Yunji's twitter**](twitter.com/ypark246)

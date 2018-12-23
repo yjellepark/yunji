@@ -3,6 +3,7 @@
 
 ---
 
+---
 
  
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -26,7 +27,7 @@ Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E
 Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks.
 
 
-### **2018 Presentations & Posters** 
+### **2018-2019 Presentations & Posters** 
 Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (accepted). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.
 
 Park, Y., Viegut, A.A., & Matthews, P.G. (accepted). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.

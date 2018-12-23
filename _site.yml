@@ -1,23 +1,19 @@
-name: "Yunji Park"
-
+name: Yunji Park
 navbar:
-  title: "Yunji Park"
+  title: Yunji Park
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Publications"
-      href: Publications.html
-    - text: "Contact"
-      href: contact.html
-  # right:
-#   - icon: fa-github fa-lg
-#     href: http://github.com/yunjiellepark
-#   - icon: fa-twitter fa-lg
-#     href: https://twitter.com/ypark246
- 
-output: 
+  - text: Home
+    href: index.html
+  - text: Publications
+    href: Publications.html
+  - text: Contact
+    href: contact.html
+output:
   html_document:
     theme: cosmo
-    css: 'styles.css'
+    css: styles.css
     highlight: textmate
-output_dir: "."
+    lib_dir: site_libs
+    self_contained: no
+output_dir: '.'
+
