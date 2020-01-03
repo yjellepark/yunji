@@ -8,18 +8,46 @@ output:
 ---
 
 
----
-
-<font size="5"> coming soon! </font>
-
 ### **Behavioral** 
 
+#### **Development of simple and ratio magnitudes representations**
+<font size=3> Recently, the ability to process intensive magnitudes (relationally defined magnitudes - i.e. density or ratios) has been highlighted. Lewis, Matthews, & Hubbard (2015) dubbed the system dedicated to this relational magntiudes as a ratio processing system (RPS). However, we don't know yet if the RPS is independent or dependent on the processings for extensive magnitudes (or simple magnitudes). We examined the development of simple and relational magnitudes discriminations and how these discriminabilities are related among preschoolers, 2nd graders, 5th graders and adults. 
+
+</font>
+
+<img src="images/MagCompStim.jpg" style="width:40%; border:5px solid; margin-top: 10px; margin-right: 10px; margin-left: 10px" >
+<img src="images/StimRatio.jpg" style="width:40%; border:5px solid; margin-top: 10px; margin-right: 10px; margin-left: 10px" >
+  
+  <font size=2> Figure 1. The example of stimuli for the simple (left) and ratio (right) magnitude comparison task. </font>
 
 
-### **DTI** 
+<img src="images/MagGrowthModel_FINAL_300.png" style="width:70%; border:5px solid; margin-top: 5px; margin-right: 5px; margin-left: 5px">
+<img src="images/RatioGrowthModel_FINAL_300.png" style="width:70%; border:5px solid; margin-top: 5px; margin-right: 5px; margin-left: 5px">
+  
+  <font size=2> Figure 2. The developmental trajectories of simple (upper) and ratio (lower) magnitude discrimination acuities. </font>
 
 
 
+---
+---
+
+### **DWI MRI** 
+
+#### **Cross-sectional research in 2nd and 5th graders**
+<font size=3> Diffusion-Weighted Images (DWI) allow us to reconstruct white matter connections in our brain. In particular, by using Diffusion Tensor Imaging (DTI), I'm interested in the relations between the structural connectivity and cognitive performance. Our recent work on 2nd and 5th graders' found that only 5th graders fraction processing ability is related with fractional anistropy in the part of the longitudinal fasciculus (ILF). </font>
+
+<img src="images/FA_grade.png" style="width:50%; border:10px solid; margin-top: 10px; margin-right: 10px; margin-left: 10px" >
+
+ <font size=2 > Figure 1. Tract-based spatial statistics (TBSS) results showing the difference in FA between 2nd and 5th graders. </font>
+
+
+<img src="images/FA_FF_RT.png" style="width:50%; border:10px solid; margin-top: 10px; margin-right: 10px; margin-left: 10px" >
+
+ <font size=2 > Figure 2. Tract-based spatial statistics (TBSS) results showing the correlation between FA and fraction processing ability while age in months, gender, and movements are controlled for. </font>
+
+
+---
+---
 ### **fMRI** 
 
 

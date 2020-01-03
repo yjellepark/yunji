@@ -8,7 +8,7 @@ output:
 ---
 
 
-<img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-top: 20px; margin-right: 20px; margin-left: 20px"; align="right">
+<img src="images/Yunji_profile.jpeg" style="width:25%; border:10px solid; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="right">
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
