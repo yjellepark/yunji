@@ -18,9 +18,17 @@ output:
 
 <font size="3"> 
 
-This is Yunji, a graduate student at UW-Madison interested in children's cognition and brain development in the context of education. Especially, I'm interested in the development of nonsymbolic ratio representations and following structural and fuctional brain changes. I do believe different educational experiences shape kid's brain differently! 
+This is Yunji, a Ph.D. candidate at UW-Madison interested in children's cognition and brain development in the context of education. My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
 
-I love yoga, netflix, and chocolate. </font>
+I'm investigating the development of nonsymbolic ratio representations and following structural and fuctional brain changes. But more specifically, I would like to focus more on the changes in structural connectivity and its relation with cognitive abilities (ex. math and language). I do believe different educational experiences shape kid's brain differently! 
+
+Recently, I started to work as the Research Chair in the Trainee Board of International Mind, Brain and Education (IMBES).  
+
+I love yoga, netflix, and chocolate. 
+
+**Note, I'm currently looking for a post-doc position starting from 2021 Summer or Fall!** 
+
+</font>
 
 ---
 
@@ -51,13 +59,13 @@ Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, 
 
 
 #### **2018-2019 Presentations & Posters** 
-Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (accepted). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.
+Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (April, 2019). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada. 
 
-Park, Y., Viegut, A.A., & Matthews, P.G. (accepted). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
+Park, Y., Viegut, A.A., & Matthews, P.G. (March, 2019). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD. 
 
-Viegut, A.A. Park, Y. & Matthews, P.G. (accepted). Number Line Estimation is More than Numerical: Evidence from Nonstandard Number Lines, 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
+Viegut, A.A. Park, Y. & Matthews, P.G. (March, 2019). Number Line Estimation is More than Numerical: Evidence from Nonstandard Number Lines, 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
 
-Matthews, P.G., Binzak, J.V., Kalra, P.B., Park, Y., & Hubbard, E.M. (accepted). Perceptual Routes to Rational Numbers. Paper submitted as part of a symposium to 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
+Matthews, P.G., Binzak, J.V., Kalra, P.B., Park, Y., & Hubbard, E.M. (March, 2019). Perceptual Routes to Rational Numbers. Paper submitted as part of a symposium to 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD.
 
 Park, Y., Binzak, J.V., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (Sep, 2018). Developmental changes in white matter tracts for symbolic and non-symbolic fractions, 6th Biennial conference on International Mind, Brain and Education Society, Los Angeles, CA.
 
