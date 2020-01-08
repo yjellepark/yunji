@@ -48,7 +48,7 @@ Consistent with Matthews et al., we found that RPS acuity predicted fractions kn
 ---
 ---
 
-### **DWI MRI** 
+### **Diffusion MRI** 
 
 #### **Cross-sectional research in 2nd and 5th graders**
 <font size=3> We are currently conducting a large cross-sectional and longitudinal study using neural and behavioral measures to explore the development of the ratio processing system (RPS).
