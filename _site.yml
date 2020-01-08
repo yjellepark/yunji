@@ -7,7 +7,7 @@ navbar:
   - text: Project
     href: project.html
   - text: DMRI Data Processing
-    href: DMRI Data Processing.html
+    href: DMRI_Data_Processing.html
     
 output:
   html_document:
