@@ -53,7 +53,7 @@ Consistent with Matthews et al., we found that RPS acuity predicted fractions kn
 #### **Cross-sectional research in 2nd and 5th graders**
 <font size=3> We are currently conducting a large cross-sectional and longitudinal study using neural and behavioral measures to explore the development of the ratio processing system (RPS).
 
-Diffusion-Weighted Images (DWI) allow us to reconstruct white matter connections in our brain. In particular, by using Diffusion Tensor Imaging (DTI), I'm interested in the relations between the structural connectivity and cognitive performance. Our recent work on 2nd and 5th graders' found that only 5th graders fraction processing ability is related with fractional anistropy in the part of the longitudinal fasciculus (ILF). </font>
+Diffusion MRI allow us to reconstruct white matter connections in our brain. In particular, by using Diffusion Tensor Imaging (DTI), I'm interested in the relations between the structural connectivity and cognitive performance. Our recent work on 2nd and 5th graders' found that only 5th graders fraction processing ability is related with fractional anistropy in the part of the longitudinal fasciculus (ILF). </font>
 
 <img src="images/FA_grade.png" style="width:50%; border:5px margin-top: 5px; margin-right: 5px; margin-left: 5px" >
 
