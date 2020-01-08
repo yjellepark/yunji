@@ -1,7 +1,21 @@
 ---
-title: "DMRI Data Processing"
-output: html_document
+output:
+  html_document:
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
 ---
 
 
 <font size="4"> Coming Soon! </font>
+
+
+
+## **Preprocessing**
+
+
+
+### **A population-specific template**
