@@ -8,14 +8,19 @@
  
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-### **Manuscript**
-Park, Y., Viegut, A.A., & Matthews, P.G. (in revision). More than the Sum of its Parts: Exploring the Development of Ratio Magnitude vs. Simple Magnitude Perception. *Developmental Science.*
+#### **Manuscript**
 
-Park, Y. & Matthews, P.G. (abstract accepted for Special Issue). Revisiting and Refining Relations between Nonsymolic Ratio Processing and Symbolic Math Achievement. Journal of Numerical cognition.
+Kalra, P. Binzak, J.V., Park, Y., Matthews, P.G. & Hubbard, E.M. (in preparation). Developmental lateralization of non-symbolic ratio processing predicts fraction knowledge.
+
+Viegut, A.A., Park, Y., Hubbard, E.M. & Matthews, P.G. (in preparation). Fraction estimation predicts later calculation, but not fluency: A cross-sequential study. 
 
 Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study.
 
-Park, Y.,Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions.
+Park, Y., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions. 
+
+Park, Y. & Matthews, P.G. (Registered for Special Issue, manuscript under review). Revisiting and Refining Relations between Nonsymolic Ratio Processing and Symbolic Math Achievement. *Journal of Numerical cognition.*
+
+Park, Y., Viegut, A.A., & Matthews, P.G. (in press). More than the Sum of its Parts: Exploring the Development of Ratio Magnitude vs. Simple Magnitude Perception. *Developmental Science.*
 
 Park, Y. & Cho, S. (2017). Developmental Changes in the Relationship between Magnitude Acuities and Mathematical Achievement in Elementary School Children. *Educational Psychology 37(7), 1-15.*
 
@@ -23,24 +28,26 @@ Park, Y. & Cho, S. (2014). Comparing Construct and Predictive Validities of the 
 
 
 
-### **Talk**
+#### **Talk**
 
-Park, Y. & Matthews, P.G. (Accepted). Ratio as a Part of Quantity. Paper submitted as part of a symposium to Cognitive Science. Society, Virtual Conference due to COVID-19. 
+Park, Y., Dean, D.3rd, Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (Sep, 2020). Developmental Changes in White Matter Tracts for Symbolic and Non-Symbolic Fractions in primary school children. Paper submitted as part of a symposium organized by Park. Y. Neural Development of Symbolic Math Knowledge from Childhood to Young, at Mathematical Cognition and Learning Society, Virtual Conference due to COVID-19.
 
-Park, Y., Dean, D.3rd, Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (Accepted). Developmental Changes in White Matter Tracts for Symbolic and Non-Symbolic Fractions in primary school children. Paper submitted as part of a symposium organized by Park. Y. Neural Development of Symbolic Math Knowledge from Childhood to Young, at Mathematical Cognition and Learning Society.
+Park, Y. & Matthews, P.G. (Aug, 2020). Ratio as a Part of Quantity. Paper submitted as part of a symposium to Cognitive Science. Society, Virtual Conference due to COVID-19.
 
 Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E.M. (April, 2019). Differences in processing symbolic vs. non-symbolic representations ratios: Behavioral and neural evidence. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.
 
 Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks.
 
 
-### **2018-2020 Presentations & Posters** 
+#### **2018-2020 Presentations & Posters** 
 
-Park, Y., Dean, D.3rd, Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (May, 2020) Symbolic and Non-Symbolic Fractions Relate to Different White Matter Tracts: A Cross-Sectional Diffusion MRI Tractography Study. Poster presented at the 27th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Virtual Conference due to COVID-19. 
+Viegut, A.A., Park, Y., Hubbard, E.M. & Matthews, P.G. (submitted). Fraction estimation predicts later calculation, but not fluency: A cross-sequential study. 2021 Biennial Meeting on Society for Research in Child Development. 
 
-Sterling-Alves, I., Park, Y., Kalra, P.B., Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (May, 2020). Educational Experience Connect Symbolic Fractions to Parietofrontal Nonsymbolic Ratio Processing Systems. Poster presented at the 27th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Virtual Conference due to COVID-19. 
+Park, Y., Dean, D.3rd, Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (May, 2020) Symbolic and Non-Symbolic Fractions Relate to Different White Matter Tracts: A Cross-Sectional Diffusion MRI Tractography Study. Poster presented at the 27th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Virtual Conference due to COVID-19.
 
-Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (April, 2019). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada. 
+Sterling-Alves, I., Park, Y., Kalra, P.B., Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (May, 2020). Educational Experience Connect Symbolic Fractions to Parietofrontal Nonsymbolic Ratio Processing Systems. Poster presented at the 27th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Virtual Conference due to COVID-19.
+
+Toomarian, E.Y., Park, Y., Matthews, P.G., & Hubbard, E.M. (April, 2019). Spatial-numerical associations of fractions: Evidence from internal and external representations. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.
 
 Park, Y., Viegut, A.A., & Matthews, P.G. (March, 2019). The development of multiple non-symbolic ratio representations in children. 2019 Biennial Meeting on Society for Research in Child Development, Baltimore, MD. 
 
