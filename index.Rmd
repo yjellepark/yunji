@@ -20,7 +20,7 @@ output:
 
 This is Yunji, a Ph.D. candidate at UW-Madison interested in children's cognition and brain development in the context of education. My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
 
-I'm investigating the development of nonsymbolic ratio representations and following structural and fuctional brain changes. But more specifically, I would like to focus more on the changes in structural connectivity and its relation with cognitive abilities (ex. math and language). I do believe different educational experiences shape kid's brain differently! 
+I'm investigating the development of nonsymbolic ratio representations and following structural and fuctional brain changes. But more specifically, I would like to focus more on the changes in structural connectivity and its relation with children's learning abilities (ex. math and language). I do believe different educational experiences shape kid's brain differently! 
 
 Recently, I started to work as the Research Chair in the Trainee Board of International Mind, Brain and Education (IMBES).  
 
