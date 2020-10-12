@@ -13,7 +13,7 @@ output:
 
 ### **Behavioral** 
 
-#### **Development of simple and ratio magnitudes representations**
+#### **Development of simple and ratio magnitudes representations **, *Developmental Science, in press*
 <font size=3>  Even though the RPS theory has proposed, we don't know yet if the RPS is independent or dependent on the processings for extensive magnitudes (or simple magnitudes). We examined the development of simple and relational magnitudes discriminations and how these discriminabilities are related among preschoolers, 2nd graders, 5th graders and adults. 
 
 </font>
@@ -30,7 +30,7 @@ output:
   <font size=2> Figure 2. The developmental trajectories of simple (upper) and ratio (lower) magnitude discrimination acuities. </font>
 
 
-#### **The relations between ratio magnitude representations and higher mathematical abilities **
+#### **The relations between ratio magnitude representations and higher mathematical abilities**, *Journal of Numerical Cognition, registered report currently under review*
 
 <font size=3> 
 
