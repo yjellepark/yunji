@@ -65,8 +65,9 @@ Diffusion MRI allow us to reconstruct white matter connections in our brain. In 
  <font size=2 > Figure 5. Tract-based spatial statistics (TBSS) results showing the correlation between FA and fraction processing ability while age in months, gender, and movements are controlled for. </font>
 
 
-  <font size=3 > As a follow-up, we also performed a deterministic tractography especially for the superior longitudinal fasiculus (SLF) and the inferior longitudinal fasciulus (ILF) </font>
-
+  <font size=3 > As a follow-up, we also performed a deterministic tractography especially for the superior longitudinal fasiculus (SLF) and the inferior longitudinal fasciulus (ILF) and found that each tract differentially relates to nonsymbolic and symbolic fraction processing abilities. </font>
+  
+<font size="3"> [**CNS 2020 poster**](https://github.com/yjellepark/yunji/raw/master/CNS2020_Park%20et%20al_FINAL.pdf) </font>
 
 <img src="images/SLF.png" style="width:50%; border:5px  margin-top: 5px; margin-right: 5px; margin-left: 5px" >
 
@@ -82,6 +83,7 @@ Diffusion MRI allow us to reconstruct white matter connections in our brain. In 
 <img src="images/fMRI.png" style="width:50%; border:5px margin-top: 5px; margin-right: 5px; margin-left: 5px"> 
 
  <font size=2 > Figure 8. (upper) The neural distance effect collapsing across all notations in 2nd (left) and 5th graders (right) (p<.01, cluster corrected). 5th graders showed larger bilateral activations in the parietal and the prefrontal areas compared to 2nd graders. (lower) The neural distance effect in each notation in 2nd and 5th graders (p<.01, cluster corrected). 5th graders showed larger overlaps among notation conditions in both parietal and prefrontal areas, whereas 2nd graders’ distance effect was mostly from the non-symbolic notation.  </font>
+
 
 
 
