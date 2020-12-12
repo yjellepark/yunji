@@ -18,15 +18,12 @@ output:
 
 <font size="3"> 
 
-This is Yunji, a Ph.D. candidate at UW-Madison interested in children's cognition and brain development in the context of education. My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
+This is Yunji, a Ph.D. candidate at UW-Madison and soon-to-be a post-doc at Stanford from 2021 Summer. I'm interested in children's cognition and brain development in the context of education. My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
 
 I'm investigating the development of nonsymbolic ratio representations and following structural and fuctional brain changes. But more specifically, I would like to focus more on the changes in structural connectivity and its relation with children's learning abilities (ex. math and language). I do believe different educational experiences shape kid's brain differently! 
 
-Recently, I started to work as the Research Chair in the Trainee Board of International Mind, Brain and Education (IMBES).  
-
 I love yoga, netflix, and chocolate. 
 
-**Note, I'm currently looking for a post-doc position starting from 2021 Summer or Fall!** 
 
 <font size="3"> [**Yunji's CV**](https://github.com/yjellepark/yunji/raw/master/Yunji%20Park_CV_2020.pdf) </font>
 
@@ -47,7 +44,7 @@ Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., & Hubbard, E.M. (in preparati
 
 Park, Y., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions. 
 
-Park, Y. & Matthews, P.G. (Registered for Special Issue, manuscript under review). Revisiting and Refining Relations between Nonsymolic Ratio Processing and Symbolic Math Achievement. *Journal of Numerical cognition.*
+Park, Y. & Matthews, P.G. (Registered for Special Issue, in revision). Revisiting and Refining Relations between Nonsymolic Ratio Processing and Symbolic Math Achievement. *Journal of Numerical cognition.*
 
 Park, Y., Viegut, A.A., & Matthews, P.G. (in press). More than the Sum of its Parts: Exploring the Development of Ratio Magnitude vs. Simple Magnitude Perception. *Developmental Science.*
 
