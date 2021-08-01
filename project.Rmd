@@ -13,7 +13,7 @@ output:
 
 ### **Behavioral** 
 
-#### **Development of simple and ratio magnitudes representations **, *Developmental Science, in press*
+#### **Development of simple and ratio magnitudes representations **, *Developmental Science, 2021*
 
 <font size=3> - All data and tasks are available at [**OSF platform**](https://osf.io/ky69x/) </font> 
 
@@ -33,7 +33,7 @@ output:
   <font size=2> Figure 2. The developmental trajectories of simple (upper) and ratio (lower) magnitude discrimination acuities. </font>
 
 
-#### **The relations between ratio magnitude representations and higher mathematical abilities**, *Journal of Numerical Cognition, registered report currently under review*
+#### **The relations between ratio magnitude representations and higher mathematical abilities**, *Journal of Numerical Cognition, in press*
 
 <font size=3> - All data and tasks are available at [**OSF platform**](https://osf.io/c75xy/) </font> 
 

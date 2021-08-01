@@ -14,18 +14,18 @@ output:
 
 ---
 ---
-### **I am.. ** 
+### **Yunji Park, Ph.D.** 
 
 <font size="3"> 
 
-This is Yunji, a Ph.D. candidate at UW-Madison and soon-to-be a post-doc at Stanford from 2021 Summer. I'm interested in children's cognition and brain development in the context of education. My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
+This is Yunji, a post-doc at the Stanford University School of Medicine. I'm interested in understanding children's cognition and brain development with a focus on investigating how educational experience molds children’s brains and vice versa. My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
 
 I'm investigating the development of nonsymbolic ratio representations and following structural and fuctional brain changes. But more specifically, I would like to focus more on the changes in structural connectivity and its relation with children's learning abilities (ex. math and language). I do believe different educational experiences shape kid's brain differently! 
 
-I love yoga, netflix, and chocolate. 
+I love wine, yoga, and netflix. 
 
 
-<font size="3"> [**Yunji's CV**](https://github.com/yjellepark/yunji/raw/master/Yunji%20Park_CV_2020.pdf) </font>
+<font size="3"> [**Yunji's CV**](https://github.com/yjellepark/yunji/raw/master/Yunji%20Park_CV_2021.pdf) </font>
 
 </font>
 
@@ -44,17 +44,19 @@ Park, Y., Binzak, J.V., Kalra, P., Matthews, P.G., & Hubbard, E.M. (in preparati
 
 Park, Y., Dean, D.3rd, Alexander, A., Matthews, P.G., & Hubbard, E.M. (in preparation). Developmental changes in white matter tracts for symbolic and non-symbolic fractions. 
 
-Park, Y. & Matthews, P.G. (Registered for Special Issue, in revision). Revisiting and Refining Relations between Nonsymolic Ratio Processing and Symbolic Math Achievement. *Journal of Numerical cognition.*
+Park, Y. & Matthews, P.G. (in press). Revisiting and Refining Relations between Nonsymolic Ratio Processing and Symbolic Math Achievement. *Journal of Numerical cognition.*
 
-Park, Y., Viegut, A.A., & Matthews, P.G. (in press). More than the Sum of its Parts: Exploring the Development of Ratio Magnitude vs. Simple Magnitude Perception. *Developmental Science.*
+Park, Y., Viegut, A.A., & Matthews, P.G. (2021). More than the Sum of its Parts: Exploring the Development of Ratio Magnitude vs. Simple Magnitude Perception. *Developmental Science, 24*(3) e13043.
 
-Park, Y. & Cho, S. (2017). Developmental Changes in the Relationship between Magnitude Acuities and Mathematical Achievement in Elementary School Children. *Educational Psychology 37(7), 1-15.*
+Park, Y. & Cho, S. (2017). Developmental Changes in the Relationship between Magnitude Acuities and Mathematical Achievement in Elementary School Children. *Educational Psychology 37*(7), 1-15.
 
-Park, Y. & Cho, S. (2014). Comparing Construct and Predictive Validities of the Measurement of Children’s Approximate Number Acuity Depending on Numerosity Comparison Task Format. *Korean Journal of Cognitive Sciences, 25(2), 79-101.*
+Park, Y. & Cho, S. (2014). Comparing Construct and Predictive Validities of the Measurement of Children’s Approximate Number Acuity Depending on Numerosity Comparison Task Format. *Korean Journal of Cognitive Sciences, 25*(2), 79-101.
 
 
 
 #### **Talk**
+
+Park, Y. & Matthews, P.G. (accepted). Perceptual processing of non-symbolic and symbolic fractional magnitudes: cross-format distance effects across multiple nonsymbolic and symbolic formats. Paper submitted as part of a symposium organized by Park. Y, Accessing to fractional magnitudes: From perception to higher cognition, at Mathematical Cognition and Learning Society, Virtual Conference due to COVID-19.
 
 Park, Y., Dean, D.3rd, Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (Sep, 2020). Developmental Changes in White Matter Tracts for Symbolic and Non-Symbolic Fractions in primary school children. Paper submitted as part of a symposium organized by Park. Y. Neural Development of Symbolic Math Knowledge from Childhood to Young, at Mathematical Cognition and Learning Society, Virtual Conference due to COVID-19.
 
@@ -65,9 +67,9 @@ Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E
 Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks.
 
 
-#### **2018-2020 Presentations & Posters** 
+#### **2018-2021 Presentations & Posters** 
 
-Viegut, A.A., Park, Y., Hubbard, E.M. & Matthews, P.G. (submitted). Fraction estimation predicts later calculation, but not fluency: A cross-sequential study. 2021 Biennial Meeting on Society for Research in Child Development. 
+Viegut, A.A., Park, Y., Hubbard, E.M. & Matthews, P.G. (April, 2021). Fraction estimation predicts later calculation, but not fluency: A cross-sequential study. 2021 Biennial Meeting on Society for Research in Child Development. 
 
 Park, Y., Dean, D.3rd, Binzak, J.V., Matthews, P.G., & Hubbard, E.M. (May, 2020) Symbolic and Non-Symbolic Fractions Relate to Different White Matter Tracts: A Cross-Sectional Diffusion MRI Tractography Study. Poster presented at the 27th Annual Meeting of Cognitive Neuroscience Society Annual Meeting, Virtual Conference due to COVID-19.
 
