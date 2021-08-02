@@ -1,8 +1,8 @@
-name: Yunji Park
+name: Yunji Park, Ph.D.
 navbar:
-  title: Yunji Park
+  title: Yunji Park, Ph.D.
   left:
-  - text: Home
+  - text: About me
     href: index.html
   - text: Project
     href: project.html
