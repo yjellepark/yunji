@@ -98,14 +98,17 @@ Kalra, P. Binzak, J.V., Park, Y., Matthews, P.G. & Hubbard, E.M. (2018). Develop
 
 ---
 
-### **Contact Info**
+### **Contact **
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<font size="4">Contact anytime to ypark246@wisc.edu </font>
 
+<a href=mailto:yj.jay.park@gmail.com?> <img src="images/mail3.png" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
 
-<font size="4"> [**Yunji's twitter**](http://twitter.com/ypark246/) </font>
+<a href="http://twitter.com/ypark246/" height="5" width="10" target="_blank">
+	<img src="images/Twitter.png" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
+<a>
+
 
 
 
