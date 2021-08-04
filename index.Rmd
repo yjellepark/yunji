@@ -14,13 +14,13 @@ output:
 
 ---
 ---
-### **Yunji Park, Ph.D.** 
+### **I am..** 
 
 <font size="3"> 
 
-I'm a post-doc at the Stanford University School of Medicine. I'm interested in understanding children's cognition and brain development with a focus on investigating how educational experience molds children’s brains and vice versa. 
+I'm a postdoctoral reesarch scholar at the Stanford University School of Medicine. I'm interested in understanding children's cognition and brain development with a focus on investigating how educational experience molds children’s brains and vice versa. 
 
-My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience.
+My path to discovering my passion for investigating learner's mind and brain with the goal of improving children’s education was unconventional. I studied physics as an undergraduate, but turned to cognitive science for my Masters, which led me to enter the field of numerical cognition. This diverse background led me to embrace an interdisciplinary approach, and into the field of educational neuroscience. 
 
 I'm investigating the development of nonsymbolic ratio representations and following structural and fuctional brain changes. But more specifically, I would like to focus more on the changes in structural connectivity and its relation with children's learning abilities (ex. math and language). I do believe different educational experiences shape kid's brain differently! 
 
@@ -31,9 +31,14 @@ If you want to know more about me....See <font size="3"> [**Yunji's CV!**](https
 </font>
 
 ---
+---
+
 
 
 ###  **Publications** 
+
+---
+---
 
 #### **Manuscript**
 
@@ -55,6 +60,7 @@ Park, Y. & Cho, S. (2014). Comparing Construct and Predictive Validities of the 
 
 
 
+
 #### **Talk**
 
 Park, Y. & Matthews, P.G. (accepted). Perceptual processing of non-symbolic and symbolic fractional magnitudes: cross-format distance effects across multiple nonsymbolic and symbolic formats. Paper submitted as part of a symposium organized by Park. Y, Accessing to fractional magnitudes: From perception to higher cognition, at Mathematical Cognition and Learning Society, Virtual Conference due to COVID-19.
@@ -66,6 +72,7 @@ Park, Y. & Matthews, P.G. (Aug, 2020). Ratio as a Part of Quantity. Paper submit
 Park, Y., Binzak, J.V., Toomarian, E.Y., Kalra, P., Matthews, P.G., & Hubbard, E.M. (April, 2019). Differences in processing symbolic vs. non-symbolic representations ratios: Behavioral and neural evidence. Paper submitted as part of a symposium to American Education Research Association, Toronto, Canada.
 
 Park, Y., Binzak, J.V., Toomarian, E.Y. Kalra, P.B., Matthews, P.G., & Hubbard, E.M. (April, 2018). Developmental changes in children’s processing of nonsymbolic ratio magnitudes: A cross-sectional fMRI study. Talk given at UW-Madison Waisman Center Brain Food Talks.
+
 
 
 #### **2018-2021 Presentations & Posters** 
@@ -109,6 +116,20 @@ Kalra, P. Binzak, J.V., Park, Y., Matthews, P.G. & Hubbard, E.M. (2018). Develop
 	<img src="images/Twitter.png" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
 <a>
 
+<a href="https://scholar.google.com/citations?user=0SqiqzoAAAAJ&hl=en/" height="5" width="10" target="_blank">
+	<img src="images/googlescholar.png" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
+<a>
 
+<a href="https://github.com/yjellepark/" height="5" width="10" target="_blank">
+	<img src="images/github.png" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
+<a>
+
+<a href="https://www.linkedin.com/in/yunji-park-6a733412b/" height="5" width="10" target="_blank">
+	<img src="images/LinkedIn_logo_initials.png" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
+<a>
+
+<a href="https://www.instagram.com/yunji.j.park/" height="5" width="10" target="_blank">
+	<img src="images/insta.jpg" style="width:10%; border:1px; margin-top: 20px; margin-right: 20px; margin-left: 20px" align="left" alt="click image">
+<a>
 
 
